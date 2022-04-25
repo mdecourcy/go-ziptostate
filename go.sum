@@ -1,0 +1,6 @@
+github.com/gocarina/gocsv v0.0.0-20220310154401-d4df709ca055 h1:UfcDMw41lSx3XM7UvD1i7Fsu3rMgD55OU5LYwLoR/Yk=
+github.com/gocarina/gocsv v0.0.0-20220310154401-d4df709ca055/go.mod h1:5YoVOkjYAQumqlV356Hj3xeYh4BdZuLE0/nRkf2NKkI=
+golang.org/x/mod v0.6.0-dev.0.20211013180041-c96bc1413d57 h1:LQmS1nU0twXLA96Kt7U9qtHJEbBk3z6Q0V4UXjZkpr4=
+golang.org/x/mod v0.6.0-dev.0.20211013180041-c96bc1413d57/go.mod h1:3p9vT2HGsQu2K1YbXdKPJLVgG5VJdoTa1poYQBtP1AY=
+golang.org/x/vuln v0.0.0-20220408094041-1b505d1b9022 h1:W4bxUv9x8HE8LSJS1GLEdY1JKmTo2abo1zfO/dUsWPs=
+golang.org/x/vuln v0.0.0-20220408094041-1b505d1b9022/go.mod h1:AD+4rPwIr6wHRSfjKcCnna4QqXBzBeBUcJfL5vZSN/4=
